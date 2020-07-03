@@ -1,0 +1,25 @@
+
+
+ Pin # | Name     | Pin Type
+-----------------------------
+   1   | A2       | Input
+   2   | A3       | Input
+   3   | A4       | Input
+   4   | A5       | Input
+   5   | A6       | Input
+   6   | A7       | Input
+   7   | A8       | Input
+   8   | A9       | Input
+   9   | AEN      | Input
+  10   | GND      | GND
+  11   | RESET    | Input
+  12   | WR       | Output
+  13   | DP1      | Input
+  14   | RST      | Output
+  15   | CS       | Output
+  16   | IOW      | Input
+  17   | IOR      | Input
+  18   | DP2      | Input
+  19   | RD       | Output
+  20   | VCC      | VCC
+
