@@ -1,5 +1,7 @@
 # Internal OPL3 ISA 8 bits
 
+![alt text](ISAOPL3.png "ISAOPL3")
+
 The schematic is based on texelec board Resound v1.1:
 
 https://texelec.com/product/resound-opl3-4-channel-opl3-sound-card-8-bit-isa/
