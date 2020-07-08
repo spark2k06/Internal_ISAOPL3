@@ -2,7 +2,7 @@
 
 ![alt text](ISAOPL3.png "ISAOPL3")
 
-The schematic is based on texelec board Resound v1.1:
+The schematic is Based on Texelec's Resound OPL v1.1 board:
 
 https://texelec.com/product/resound-opl3-4-channel-opl3-sound-card-8-bit-isa/
 
