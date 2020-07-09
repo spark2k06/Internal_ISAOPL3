@@ -8,7 +8,7 @@ https://texelec.com/product/resound-opl3-4-channel-opl3-sound-card-8-bit-isa/
 
 # version 1.2
 
-* Track two vias forgotten in developmente of version 1.1
+* Track two vias forgotten in development of version 1.1
 
 # version 1.1
 
