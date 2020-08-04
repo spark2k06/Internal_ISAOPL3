@@ -4,7 +4,7 @@
 
 The schematic is Based on Texelec's Resound OPL v1.1 board:
 
-https://texelec.com/product/resound-opl3-4-channel-opl3-sound-card-8-bit-isa/
+https://www.tindie.com/products/TexElec/resound-opl3-4-channel-sound-card-8-bit-isa/
 
 # version 1.2
 
